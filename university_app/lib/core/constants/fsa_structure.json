@@ -1,0 +1,483 @@
+{
+  "departementsFondamentaux": [
+    {
+      "nom": "Département de Physique (الفيزياء)",
+      "filieres": [
+        {
+          "nom": "Licence - Sciences de la Matière Physique (SMP)",
+          "semestres": [
+            {
+              "nom": "Semestre 1",
+              "modules": [
+                "Mécanique du point",
+                "Thermodynamique 1",
+                "Atomistique",
+                "Thermochimie",
+                "Analyse 1",
+                "Algèbre 1",
+                "LT I"
+              ]
+            },
+            {
+              "nom": "Semestre 2",
+              "modules": [
+                "Electricité 1",
+                "Optique géométrique",
+                "Liaisons chimiques",
+                "Chimie des solutions",
+                "Analyse 2",
+                "Algèbre 2",
+                "LT II"
+              ]
+            },
+            {
+              "nom": "Semestre 3",
+              "modules": [
+                "Mécanique du solide",
+                "Thermodynamique 2",
+                "Electricité 2",
+                "Chimie organique",
+                "Analyse 3",
+                "Informatique"
+              ]
+            },
+            {
+              "nom": "Semestre 4",
+              "modules": [
+                "Electronique de base",
+                "Optique physique",
+                "Electricité 3",
+                "Mécanique quantique",
+                "Cristallographie géométrique",
+                "Analyse Numérique"
+              ]
+            },
+            {
+              "nom": "Semestre 5",
+              "modules": [
+                "Electronique Analogique",
+                "Ondes Electromagnétiques",
+                "Electronique Numérique",
+                "Mécanique quantique 2",
+                "Ondes Mécaniques",
+                "Mécanique analytique"
+              ]
+            },
+            {
+              "nom": "Semestre 6",
+              "modules": [
+                "Physique atomique",
+                "Physique statistique",
+                "Physique nucléaire",
+                "Physique du solide",
+                "Projet tutoré (x2)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "Département de Chimie (الكيمياء)",
+      "filieres": [
+        {
+          "nom": "Licence - Sciences de la Matière Chimie (SMC)",
+          "semestres": [
+            {
+              "nom": "Semestre 1",
+              "modules": [
+                "Mécanique du point",
+                "Thermodynamique 1",
+                "Atomistique",
+                "Thermochimie",
+                "Analyse 1",
+                "Algèbre 1",
+                "Langue et Terminologie I"
+              ]
+            },
+            {
+              "nom": "Semestre 2",
+              "modules": [
+                "Électrostatique et Électrocinétique",
+                "Optique géométrique",
+                "Liaisons chimiques",
+                "Chimie des solutions",
+                "Analyse 2",
+                "Algèbre 2",
+                "Langue et Terminologie II"
+              ]
+            },
+            {
+              "nom": "Semestre 3",
+              "modules": [
+                "Chimie organique générale",
+                "Chimie descriptive I",
+                "Électricité 2",
+                "Chimie expérimentale (TP)",
+                "Chimie des électrolytes",
+                "Mathématiques pour la chimie"
+              ]
+            },
+            {
+              "nom": "Semestre 4",
+              "modules": [
+                "Hydrocarbures et fonctions monovalentes",
+                "Cristallographie géométrique I",
+                "Thermodynamique chimique",
+                "Mécanique quantique",
+                "Informatique",
+                "Probabilités Statistiques"
+              ]
+            },
+            {
+              "nom": "Semestre 5",
+              "modules": [
+                "Chimie organique fonctionnelle",
+                "Radiocristallographie II",
+                "Cinétique et catalyse",
+                "Chimie théorique",
+                "Électrochimie",
+                "Techniques spectroscopiques"
+              ]
+            },
+            {
+              "nom": "Semestre 6",
+              "modules": [
+                "Réactions organiques",
+                "Chimie descriptive II",
+                "Procédés d'élaboration des matériaux",
+                "Chimie analytique en solution",
+                "Projet Tutoré (x2)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "Département de Biologie (البيولوجيا)",
+      "filieres": [
+        {
+          "nom": "Licence - Sciences de la Vie (SVI)",
+          "semestres": [
+            {
+              "nom": "Semestre 1",
+              "modules": [
+                "Biologie Cellulaire",
+                "Embryologie et Histologie",
+                "Géologie générale",
+                "Mathématiques : Analyse",
+                "Physique I",
+                "Chimie I",
+                "Langue et Terminologie I"
+              ]
+            },
+            {
+              "nom": "Semestre 2",
+              "modules": [
+                "Biologie des organismes animaux",
+                "Biologie des organismes végétaux",
+                "Géodynamique externe",
+                "Géodynamique interne",
+                "Physique II",
+                "Chimie II",
+                "Langue et Terminologie II"
+              ]
+            },
+            {
+              "nom": "Semestre 3",
+              "modules": [
+                "Biochimie Structurale",
+                "Faunistique",
+                "Écologie Générale",
+                "Techniques chimiques",
+                "Biophysique",
+                "Statistiques"
+              ]
+            },
+            {
+              "nom": "Semestre 4",
+              "modules": [
+                "Enzymologie",
+                "Génétique I",
+                "Microbiologie Générale",
+                "Floristique",
+                "Physiologie animale I",
+                "Physiologie végétale"
+              ]
+            },
+            {
+              "nom": "Semestre 5",
+              "modules": [
+                "Physiologie animale II",
+                "Microbiologie II",
+                "Génétique II",
+                "Biologie moléculaire",
+                "Origine du monde vivant"
+              ]
+            },
+            {
+              "nom": "Semestre 6",
+              "modules": [
+                "Biologie Cellulaire et Moléculaire",
+                "Biologie de l'Environnement",
+                "Biotechnologies végétales",
+                "Projet tutoré (x2)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "Département de Géologie (الجيولوجيا)",
+      "filieres": [
+        {
+          "nom": "Licence - Sciences de la Terre et de l'Univers (STU)",
+          "semestres": [
+            {
+              "nom": "Semestre 1",
+              "modules": [
+                "Biologie Cellulaire",
+                "Géologie Générale",
+                "Mathématiques",
+                "Physique I",
+                "Chimie Générale",
+                "Langue et Terminologie I"
+              ]
+            },
+            {
+              "nom": "Semestre 2",
+              "modules": [
+                "Biologie des organismes",
+                "Géodynamique",
+                "Physique II",
+                "Chimie II",
+                "Langue et Terminologie II"
+              ]
+            },
+            {
+              "nom": "Semestre 3",
+              "modules": [
+                "Tectonique analytique",
+                "Tectonique globale",
+                "Minéralogie",
+                "Pétrologie endogène",
+                "Sédimentologie I",
+                "Paléontologie I"
+              ]
+            },
+            {
+              "nom": "Semestre 4",
+              "modules": [
+                "Sédimentologie II",
+                "Pétrographie magmatique",
+                "Statistiques",
+                "Géoinformatique"
+              ]
+            },
+            {
+              "nom": "Semestre 5",
+              "modules": [
+                "Environnements sédimentaires",
+                "Géologie structurale",
+                "Hydrogéologie",
+                "Hydrologie",
+                "Géochimie"
+              ]
+            },
+            {
+              "nom": "Semestre 6",
+              "modules": [
+                "Géologie du Maroc",
+                "Métallogénie",
+                "Géophysique",
+                "Projet Fin d'Études (x2)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "Département d'Informatique (المعلوميات)",
+      "filieres": [
+        {
+          "nom": "Licence - Sciences Mathématique et Informatique (SMI)",
+          "semestres": [
+            {
+              "nom": "Semestre 1",
+              "modules": [
+                "Analyse 1",
+                "Algèbre 1",
+                "Physique 1",
+                "Thermodynamique",
+                "Informatique 1",
+                "LT I"
+              ]
+            },
+            {
+              "nom": "Semestre 2",
+              "modules": [
+                "Analyse 2",
+                "Algèbre 2",
+                "Physique 2",
+                "Informatique 2",
+                "LT II"
+              ]
+            },
+            {
+              "nom": "Semestre 3",
+              "modules": [
+                "Programmation I",
+                "Algorithmique II",
+                "Systèmes d’Exploitation I",
+                "Technologie Web",
+                "Électronique"
+              ]
+            },
+            {
+              "nom": "Semestre 4",
+              "modules": [
+                "Programmation II",
+                "Structures de Données",
+                "Analyse Numérique",
+                "Architecture des Ordinateurs"
+              ]
+            },
+            {
+              "nom": "Semestre 5",
+              "modules": [
+                "Bases de Données",
+                "Réseaux",
+                "Programmation Orientée Objet",
+                "UML"
+              ]
+            },
+            {
+              "nom": "Semestre 6",
+              "modules": [
+                "Java 2",
+                "Web Dynamique",
+                "Projet Tutoré (x2)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "Département de Mathématiques (الرياضيات)",
+      "filieres": [
+        {
+          "nom": "Licence - Sciences Mathématiques (SMA)",
+          "semestres": [
+            {
+              "nom": "S1-S6",
+              "modules": [
+                "Analyse",
+                "Algèbre",
+                "Topologie",
+                "Probabilités",
+                "Statistiques",
+                "Analyse Numérique"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "centreExcellence": {
+    "filières": [
+      {
+        "code": "ADIA",
+        "nom": "Analytique des Données et Intelligence Artificielle",
+        "niveau": {
+          "licence": {
+            "nom": "Licence d’Excellence - ADIA",
+            "modules": [
+              "Bases de données et SQL",
+              "Statistiques et Probabilités",
+              "Programmation Python",
+              "Machine Learning - Introduction",
+              "Projet (S5/S6)"
+            ]
+          },
+          "master": {
+            "nom": "Master d’Excellence - ADIA",
+            "niveau": [
+              "M1",
+              "M2"
+            ],
+            "modules": [
+              "Deep Learning",
+              "Big Data Analytics",
+              "Data Engineering",
+              "AI Project Management",
+              "Stage"
+            ]
+          }
+        }
+      },
+      {
+        "code": "ISE",
+        "nom": "Ingénierie Informatique et Systèmes Embarqués",
+        "niveau": {
+          "licence": {
+            "nom": "Licence d’Excellence - ISE",
+            "modules": [
+              "Électronique numérique et analogique",
+              "Programmation C/C++",
+              "Systèmes embarqués - Bases",
+              "Réseaux informatiques",
+              "Projet (S5/S6)"
+            ]
+          },
+          "master": {
+            "nom": "Master d’Excellence - ISE",
+            "niveau": [
+              "M1",
+              "M2"
+            ],
+            "modules": [
+              "Systèmes embarqués avancés",
+              "IoT et Communication sans fil",
+              "Sécurité des systèmes embarqués",
+              "Stage professionnel"
+            ]
+          }
+        }
+      },
+      {
+        "code": "IL",
+        "nom": "Ingénierie Logicielle",
+        "niveau": {
+          "licence": {
+            "nom": "Licence d’Excellence - IL",
+            "modules": [
+              "Programmation orientée objet",
+              "UML et conception logicielle",
+              "Bases de données avancées",
+              "Développement Web et Mobile",
+              "Projet (S5/S6)"
+            ]
+          },
+          "master": {
+            "nom": "Master d’Excellence - IL",
+            "niveau": [
+              "M1",
+              "M2"
+            ],
+            "modules": [
+              "Architecture logicielle",
+              "DevOps et intégration continue",
+              "Cloud Computing",
+              "Stage de fin d’études"
+            ]
+          }
+        }
+      }
+    ]
+  }
+}
